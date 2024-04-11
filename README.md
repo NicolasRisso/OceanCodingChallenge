@@ -1,5 +1,5 @@
-#OceanCodingChallenge
-- This is Nicolas Risso's submission for the Advancement Design coding challenge.
+# OceanCodingChallenge
+This is Nicolas Risso's submission for the Advancement Design coding challenge.
 
 Implementations:
 
