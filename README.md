@@ -10,3 +10,7 @@ Implementations:
 Difficulties:
 
 - The waterline experiences glitches and does not perfectly align with the wave noise, resulting in small imperfections. This is likely caused by the scaling of the ocean.
+
+Credits:
+- Water Texture: https://3dtextures.me/2017/12/28/water-001/
+- Boat Model: https://www.turbosquid.com/3d-models/sail-boat-free-1246348
