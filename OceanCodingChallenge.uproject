@@ -15,5 +15,8 @@
 			"Name": "Landmass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
